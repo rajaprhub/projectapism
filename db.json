@@ -1,0 +1,54 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+
+    "figmacosts" : [
+        {
+            "id": 1,
+            "Pagename": "Home",
+            "design": 0,
+            "intanimation": 0,
+            "integration": 0,
+            "Totalcost": 0
+          },
+          {
+            "id": 1,
+            "Pagename": "Services",
+            "design": 0,
+            "intanimation": 0,
+            "integration": 0,
+            "Totalcost": 0
+          },
+          {
+            "id": 1,
+            "Pagename": "About US",
+            "design": 0,
+            "intanimation": 0,
+            "integration": 0,
+            "Totalcost": 0
+          },
+          {
+            "id": 1,
+            "Pagename": "Partners",
+            "design": 0,
+            "intanimation": 0,
+            "integration": 0,
+            "Totalcost": 0
+          },
+          {
+            "id": 1,
+            "Pagename": "Contact Us",
+            "design": 0,
+            "intanimation": 0,
+            "integration": 0,
+            "Totalcost": 0
+          }
+     ]
+
+
+  }

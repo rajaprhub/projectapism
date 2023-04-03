@@ -1,0 +1,23 @@
+{
+  "name": "projectapism",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajaprhub/projectapism.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajaprhub/projectapism/issues"
+  },
+  "homepage": "https://github.com/rajaprhub/projectapism#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
